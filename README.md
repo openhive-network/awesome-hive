@@ -2,6 +2,8 @@
 
 > A curated list of awesome Hive resources.
 
+![Awesome Hive](logo.png)
+
 ## Contents
 
 - [Hive source code](#hive-source-code)
