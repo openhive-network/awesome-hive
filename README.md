@@ -8,7 +8,7 @@
 - [Frontends](#frontends)
 - [Block Explorers](#block-explorers)
 - [Documentation](#documentation)
-
+- [Communication channels](#communication)
 
 ## Hive source code
 
@@ -37,6 +37,10 @@ Hive node implementation.
 
 ## Documentation
 - [Hive Developer Portal](https://developers.hive.io)
+
+## Communication channels
+- [OpenHive.Chat](https://openhive.chat) - Off-chain communication hub with Hive based authentication.
+- [Telegram](https://t.me/hiveblockchain) - Hive Telegram Group.
 
 ## Contribute
 
