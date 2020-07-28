@@ -124,6 +124,8 @@ Hive node implementation.
   - [Ecency](https://ecency.com) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/ecency)).
 - Video
   - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators.
+- Music 
+  - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive. 
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
 - Science
