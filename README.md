@@ -113,6 +113,8 @@ Hive node implementation.
   - [Witness List](https://hivekings.com/witnesses) - Witness List on Hivekings.
   - [Witness List](https://hive.arcange.eu/witnesses/) - Witness List by [@arcange](https://hive.blog/@arcange).
   - [Witness Block Production Schedule](https://hive.arcange.eu/schedule/) - Tool for monitoring block production by witnesses.
+- Browser Extensions
+  - [I Love PeakD](https://github.com/selabie68/i-love-peakd) - Redirect other HIVE dApps to PeakD ([Chrome](https://chrome.google.com/webstore/detail/i-love-peakd/nnjpaiehjlcdpajkbajkkdnepdafiiaa)) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/i-love-peakd/)).
 
 ## dApps
 
