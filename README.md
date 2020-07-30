@@ -47,6 +47,7 @@ Hive node implementation.
 ## Block Explorers
 - [HiveBlocks](https://hiveblocks.com)
 - [Hive-DB](https://hive-db.com)
+- [HIVE Block Explorer](https://hiveblockexplorer.com/)
 
 ## Documentation
 - [Hive Developer Portal](https://developers.hive.io)
