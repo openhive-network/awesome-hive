@@ -102,6 +102,9 @@ Hive node implementation.
 - Block Explorer
   - [hiveblocks.com](http://hiveblocks.com) - The Hive block, transaction and account explorer.
   - [hive-db.com](https://hive-db.com/) - Alternative Hive block explorer.
+  - [hiveblockexplorer](https://www.hiveblockexplorer.com/) - Hive block explorer by [@penguinpablo](https://hive.blog/@penguinpablo).
+- Search Engine
+  - [Hive searcher](https://hivesearcher.com/) - Fast and powerful Hive search engine.
 - Authentication / Wallet
   - [Hivesigner](https://hivesigner.com) - A Signer app for Hive, ([code](https://github.com/ledgerconnect/hivesigner)).
   - [Hive Keychain](https://github.com/stoodkev/hive-keychain) - A wallet browser extension for the Hive blockchain and cryptocurrency.
@@ -160,6 +163,10 @@ Where to find more resources about Hive.
 ### Conferences
 
 - [Hive Hackathon](https://hivehackathon.com/) - Online hackathon for developers.
+
+## Alternative lists
+
+- [Awesome list by @good-karma](https://github.com/ledgerconnect/awesome-hive) Alternative list by [@good-karma](https://hive.blog/@good-karma).
 
 ## Contribute
 
