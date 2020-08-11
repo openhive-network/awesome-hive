@@ -47,6 +47,7 @@ Hive node implementation.
 ## Block Explorers
 - [HiveBlocks](https://hiveblocks.com)
 - [Hive-DB](https://hive-db.com)
+- [HIVE Block Explorer](https://hiveblockexplorer.com/)
 
 ## Documentation
 - [Hive Developer Portal](https://developers.hive.io)
@@ -101,6 +102,9 @@ Hive node implementation.
 - Block Explorer
   - [hiveblocks.com](http://hiveblocks.com) - The Hive block, transaction and account explorer.
   - [hive-db.com](https://hive-db.com/) - Alternative Hive block explorer.
+  - [hiveblockexplorer](https://www.hiveblockexplorer.com/) - Hive block explorer by [@penguinpablo](https://hive.blog/@penguinpablo).
+- Search Engine
+  - [Hive searcher](https://hivesearcher.com/) - Fast and powerful Hive search engine.
 - Authentication / Wallet
   - [Hivesigner](https://hivesigner.com) - A Signer app for Hive, ([code](https://github.com/ledgerconnect/hivesigner)).
   - [Hive Keychain](https://github.com/stoodkev/hive-keychain) - A wallet browser extension for the Hive blockchain and cryptocurrency.
@@ -113,6 +117,8 @@ Hive node implementation.
   - [Witness List](https://hivekings.com/witnesses) - Witness List on Hivekings.
   - [Witness List](https://hive.arcange.eu/witnesses/) - Witness List by [@arcange](https://hive.blog/@arcange).
   - [Witness Block Production Schedule](https://hive.arcange.eu/schedule/) - Tool for monitoring block production by witnesses.
+- Browser Extensions
+  - [I Love PeakD](https://github.com/selabie68/i-love-peakd) - Redirect other HIVE dApps to PeakD ([Chrome](https://chrome.google.com/webstore/detail/i-love-peakd/nnjpaiehjlcdpajkbajkkdnepdafiiaa)) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/i-love-peakd/)).
 
 ## dApps
 
@@ -157,6 +163,10 @@ Where to find more resources about Hive.
 ### Conferences
 
 - [Hive Hackathon](https://hivehackathon.com/) - Online hackathon for developers.
+
+## Alternative lists
+
+- [Awesome list by @good-karma](https://github.com/ledgerconnect/awesome-hive) Alternative list by [@good-karma](https://hive.blog/@good-karma).
 
 ## Contribute
 
