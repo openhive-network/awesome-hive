@@ -134,6 +134,7 @@ Hive node implementation.
   - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive. 
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
+  - [Rising Star](https://www.risingstargame.com/)- Collectible card game based on the music industry. Alpha as of August 2020.
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
 - Automation
