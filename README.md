@@ -143,6 +143,7 @@ Hive node implementation.
   - [Hive.vote](https://hive.vote) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts, ([code](https://github.com/mahdiyari/steemauto)).
 - Tokens
   - [Hive-engine](https://hive-engine.com/) - A platform that empowers creating tokens and tribes on Hive.
+  - [NFTMart](https://nftm.art) - A platform that enables the buying and selling of NFTs on Hive.
 
 ## Services
 
