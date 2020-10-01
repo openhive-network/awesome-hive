@@ -83,6 +83,8 @@ Hive node implementation.
   - [lighthive](https://github.com/emre/lighthive) - A light Python client to interact with the Hive Blockchain.
 - Ruby
   - [hive-ruby](https://gitlab.syncad.com/hive/hive-ruby) - Ruby library for the Hive blockchain.
+- Java
+  - [HiveJ](https://github.com/OperationCrypto/hivej)
 
 ## Tutorials
 
@@ -94,6 +96,7 @@ Hive node implementation.
   - [Developer Portal Python Tutorial](https://developers.hive.io/tutorials/#tutorials-python) - Python Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/python)).
 - Ruby
   - [Developer Portal Ruby Tutorial](https://developers.hive.io/tutorials/#tutorials-ruby) - Ruby Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/ruby)).
+
 
 
 ## Tools / Utilities
@@ -138,6 +141,7 @@ Hive node implementation.
   - [dCity](https://dcity.io/) - A blockchain-based city building games with tokenized assets and real rewards.
   - [Holybread](https://holybread.io/) - An RPG-style browser game built on the Hive blockchain.
   - [Rising Star](https://www.risingstargame.com/) - Collectible card game based on the music industry. Alpha as of August 2020.
+  - [Rabona](https://rabona.io) - Soccer Manager built on the Hive blockchain
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
 - Automation
