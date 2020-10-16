@@ -80,8 +80,11 @@ Hive node implementation.
 - Python
   - [hive-python](https://gitlab.syncad.com/hive/hive-python) - Python (3) library for the Hive Blockchain.
   - [beem](https://github.com/holgern/beem) - A comprehensive Python library to interact with the Hive blockchain.
+  - [lighthive](https://github.com/emre/lighthive) - A light Python client to interact with the Hive Blockchain.
 - Ruby
   - [hive-ruby](https://gitlab.syncad.com/hive/hive-ruby) - Ruby library for the Hive blockchain.
+- Java
+  - [HiveJ](https://github.com/OperationCrypto/hivej)
 
 ## Tutorials
 
@@ -93,6 +96,7 @@ Hive node implementation.
   - [Developer Portal Python Tutorial](https://developers.hive.io/tutorials/#tutorials-python) - Python Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/python)).
 - Ruby
   - [Developer Portal Ruby Tutorial](https://developers.hive.io/tutorials/#tutorials-ruby) - Ruby Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/ruby)).
+
 
 
 ## Tools / Utilities
@@ -131,19 +135,25 @@ Hive node implementation.
 - Video
   - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators.
 - Music 
-  - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive. 
+  - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive.   
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
   - [dCity](https://dcity.io/) - A blockchain-based city building games with tokenized assets and real rewards.
   - [Holybread](https://holybread.io/) - An RPG-style browser game built on the Hive blockchain.
   - [Rising Star](https://www.risingstargame.com/) - Collectible card game based on the music industry. Alpha as of August 2020.
+  - [Rabona](https://rabona.io) - Soccer Manager built on the Hive blockchain
 - Science
   - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
 - Automation
   - [Hive.vote](https://hive.vote) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts, ([code](https://github.com/mahdiyari/steemauto)).
 - Tokens
   - [Hive-engine](https://hive-engine.com/) - A platform that empowers creating tokens and tribes on Hive.
+
   - [NFTMart](https://nftm.art) - A platform that enables the buying and selling of NFTs on Hive.
+- Other
+  - [dPoll](https://dpoll.io) - A platform to create polls and get feedback. You can also vote to other polls. All actions are registered into the HIVE blockchain as first
+  class objects.
+
 
 ## Services
 
