@@ -55,6 +55,8 @@ Hive node implementation.
 ## Communication channels
 - [OpenHive.Chat](https://openhive.chat) - Off-chain communication hub with Hive based authentication.
 - [Telegram](https://t.me/hiveblockchain) - Hive Telegram Group.
+- [YouTube](https://www.youtube.com/c/Hivenetwork) - Hivenetwork YouTube channel.
+- [Twitter](https://twitter.com/hiveblocks) - Hive.io on Twitter.
 
 ## Introduction
 
