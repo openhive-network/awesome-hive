@@ -119,6 +119,7 @@ Hive node implementation.
 - Data Service
   - [HiveSQL](https://hivesql.io/) - A publicly available Microsoft SQL database containing all the Hive blockchain data.
   - [eSync](https://github.com/eSteemApp/esync) - Extracts Hive blockchain data and saves into Mongodb.
+  - [meeseeker](https://github.com/inertia186/meeseeker) - Extracts Hive blockchain data and saves into Redis.
 - Witness
   - [Witness List](https://hivekings.com/witnesses) - Witness List on Hivekings.
   - [Witness List](https://hive.arcange.eu/witnesses/) - Witness List by [@arcange](https://hive.blog/@arcange).
