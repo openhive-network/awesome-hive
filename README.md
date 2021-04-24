@@ -176,6 +176,7 @@ Where to find more resources about Hive.
 
 - [HiveDevs Chat](https://discord.gg/4mn5S9t) - A Discord channel where Hive developers go to discuss Hive apps, development, libraries and related topics.
 - [Hive API](https://hive.hivesigner.com) - Swagger interactive Hive API.
+- [Hive Chain Documentation](https://hivedocs.info) - Hub for general documentation contributed by developers on the Hive blockchain.
 
 ### Conferences
 
