@@ -22,6 +22,7 @@
 - [Resources](#resources)
   - [Developer Community](#developer-community)
   - [Conferences](#conferences)
+- [Appliances](#appliances)
 
 ## Hive source code
 
@@ -182,6 +183,10 @@ Where to find more resources about Hive.
 
 - [HiveFest](https://hivefe.st) - HiveFest, the annual gathering for Hive users and it's ecosystem.
 - [Hive Hackathon](https://hivehackathon.com/) - Online hackathon for developers.
+
+### Appliances
+
+- [Hive Whale](https://hivewhale.com/) - Hive Whale, a life-sized sperm whale on the blockchain.
 
 ## Alternative lists
 
