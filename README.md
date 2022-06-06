@@ -137,7 +137,8 @@ Hive node implementation.
   - [PeakD](https://peakd.com) - User-friendly full-fledged blogging dApp for Hive.
   - [Ecency](https://ecency.com) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/ecency)).
 - Video
-  - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators.
+  - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators. 
+  - [Hive-Tube](https://Hive-Tube.com) - The Hive-Tube plugin monetizes your streaming media on any Peertube (P2P) Server.
 - Music 
   - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive.   
 - Game
