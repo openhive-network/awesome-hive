@@ -41,6 +41,7 @@ Hive node implementation.
 
 ### Specific
 - [STEMsocial](https://stem.openhive.network) - Curation project dedicated to improving the quality of STEM (science, technology, engineering & mathematics) content on Hive.
+- [HypnoChain](https://hypnochain.com) - Your hub for all hypnosis related content on the Hive blockchain.
 
 ### Customizable
 - [DBlog](https://dblog.org) - Simple but powerfull website templates for your own blog.
