@@ -1,8 +1,16 @@
-# awesome-hive [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-hive
 
-> A curated list of awesome Hive resources.
+> **This list is no longer maintained.** The maintained list is [Awesome Hive by Ecency](https://github.com/ecency/awesome-hive#readme). Please send new entries and fixes there.
 
 ![Awesome Hive](logo.png)
+
+Other up-to-date starting points:
+
+- [hive.io](https://hive.io) - Official site, with the [ecosystem overview](https://hive.io/eco/) and a machine-readable [llms.txt](https://hive.io/llms.txt) map of the whole stack.
+- [Hive Developer Portal](https://developers.hive.io) - API reference, quickstart and tutorials.
+- [Hive Projects](https://hiveprojects.io) - Community-maintained directory of apps, sites and tools built on Hive.
+
+The entries below were last checked on 2026-10-17. Dead and hijacked links were removed or replaced; nothing new will be added here.
 
 ## Contents
 
@@ -22,7 +30,7 @@
 - [Resources](#resources)
   - [Developer Community](#developer-community)
   - [Conferences](#conferences)
-- [Appliances](#appliances)
+  - [Appliances](#appliances)
 
 ## Hive source code
 
@@ -39,25 +47,25 @@ Hive node implementation.
 - [PeakD](https://peakd.com) - User-friendly full-fledged blogging dApp for Hive.
 - [Ecency](https://ecency.com) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/ecency)).
 
-### Specific
-- [STEMsocial](https://stem.openhive.network) - Curation project dedicated to improving the quality of STEM (science, technology, engineering & mathematics) content on Hive.
-
 ### Customizable
-- [DBlog](https://dblog.org) - Simple but powerfull website templates for your own blog.
+
+- [DBlog](https://dblog.org) - Simple but powerful website templates for your own blog.
 
 ## Block Explorers
-- [HiveBlocks](https://hiveblocks.com)
-- [Hive-DB](https://hive-db.com)
-- [HIVE Block Explorer](https://hiveblockexplorer.com/)
+
+- [Hive Block Explorer](https://explore.openhive.network) - Official HAF-based block explorer, linked from hive.io.
+- [HIVE Block Explorer](https://hiveblockexplorer.com/) - Block explorer by [@penguinpablo](https://hive.blog/@penguinpablo).
 
 ## Documentation
+
 - [Hive Developer Portal](https://developers.hive.io)
 
 ## Communication channels
+
 - [OpenHive.Chat](https://openhive.chat) - Off-chain communication hub with Hive based authentication.
 - [Telegram](https://t.me/hiveblockchain) - Hive Telegram Group.
-- [YouTube](https://www.youtube.com/c/Hivenetwork) - Hivenetwork YouTube channel.
-- [Twitter](https://twitter.com/hiveblocks) - Hive.io on Twitter.
+- [YouTube](https://www.youtube.com/c/Hivenetwork) - Hive Blockchain YouTube channel.
+- [X](https://x.com/hiveblocks) - Hive on X.
 
 ## Introduction
 
@@ -83,11 +91,11 @@ Hive node implementation.
 - Python
   - [hive-python](https://gitlab.syncad.com/hive/hive-python) - Python (3) library for the Hive Blockchain.
   - [beem](https://github.com/holgern/beem) - A comprehensive Python library to interact with the Hive blockchain.
-  - [lighthive](https://github.com/emre/lighthive) - A light Python client to interact with the Hive Blockchain.
+  - [lighthive](https://pypi.org/project/lighthive/) - A light Python client to interact with the Hive Blockchain.
 - Ruby
   - [hive-ruby](https://gitlab.syncad.com/hive/hive-ruby) - Ruby library for the Hive blockchain.
 - Java
-  - [HiveJ](https://github.com/OperationCrypto/hivej)
+  - [HiveJ](https://github.com/OperationCrypto/hivej) - Java library for the Hive blockchain.
 
 ## Tutorials
 
@@ -100,33 +108,26 @@ Hive node implementation.
 - Ruby
   - [Developer Portal Ruby Tutorial](https://developers.hive.io/tutorials/#tutorials-ruby) - Ruby Tutorials for the Developer Portal, ([code](https://gitlab.syncad.com/hive/devportal/-/tree/develop/tutorials/ruby)).
 
-
-
 ## Tools / Utilities
 
 *Useful tools/utilities when building with Hive*
 
-- Block Explorer
-  - [hiveblocks.com](http://hiveblocks.com) - The Hive block, transaction and account explorer.
-  - [hive-db.com](https://hive-db.com/) - Alternative Hive block explorer.
-  - [hiveblockexplorer](https://www.hiveblockexplorer.com/) - Hive block explorer by [@penguinpablo](https://hive.blog/@penguinpablo).
 - Search Engine
   - [Hive searcher](https://hivesearcher.com/) - Fast and powerful Hive search engine.
 - Authentication / Wallet
   - [Hivesigner](https://hivesigner.com) - A Signer app for Hive, ([code](https://github.com/ledgerconnect/hivesigner)).
   - [Hive Keychain](https://github.com/stoodkev/hive-keychain) - A wallet browser extension for the Hive blockchain and cryptocurrency.
-  - [HiveWallet.app](https://hivewallet.app/) - fast, secure and open source wallet for the Hive blockchain, ([code](https://github.com/roelandp/hivewallet)).
+  - [HiveWallet.app](https://hivewallet.app/) - Fast, secure and open source wallet for the Hive blockchain, ([code](https://github.com/roelandp/hivewallet)).
   - [Hiveblog Wallet](https://wallet.hive.blog) - The wallet functionality of Hiveblog Condenser, ([code](https://gitlab.syncad.com/hive/wallet)).
 - Data Service
   - [HiveSQL](https://hivesql.io/) - A publicly available Microsoft SQL database containing all the Hive blockchain data.
   - [eSync](https://github.com/eSteemApp/esync) - Extracts Hive blockchain data and saves into Mongodb.
   - [meeseeker](https://github.com/inertia186/meeseeker) - Extracts Hive blockchain data and saves into Redis.
 - Witness
-  - [Witness List](https://hivekings.com/witnesses) - Witness List on Hivekings.
   - [Witness List](https://hive.arcange.eu/witnesses/) - Witness List by [@arcange](https://hive.blog/@arcange).
   - [Witness Block Production Schedule](https://hive.arcange.eu/schedule/) - Tool for monitoring block production by witnesses.
 - Browser Extensions
-  - [I Love PeakD](https://github.com/selabie68/i-love-peakd) - Redirect other HIVE dApps to PeakD ([Chrome](https://chrome.google.com/webstore/detail/i-love-peakd/nnjpaiehjlcdpajkbajkkdnepdafiiaa)) ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/i-love-peakd/)).
+  - [I Love PeakD](https://github.com/selabie68/i-love-peakd) - Redirect other HIVE dApps to PeakD.
 
 ## dApps
 
@@ -137,28 +138,18 @@ Hive node implementation.
   - [PeakD](https://peakd.com) - User-friendly full-fledged blogging dApp for Hive.
   - [Ecency](https://ecency.com) - A powerful frontend dApp for Android, iOS, Desktop and Web, ([code](https://github.com/ecency)).
 - Video
-  - [3Speak](https://3speak.online/) - Video sharing community that rewards creators and curators. 
-  - [Hive-Tube](https://Hive-Tube.com) - The Hive-Tube plugin monetizes your streaming media on any Peertube (P2P) Server.
-- Music 
-  - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive.   
+  - [3Speak](https://3speak.tv/) - Video sharing community that rewards creators and curators.
+- Music
+  - [cXc Music](https://music.cxc.world/) - World of Music map that works with Soundcloud, Spotify, and Youtube, and can post music to Hive.
 - Game
   - [Splinterlands](https://splinterlands.com/) - A collectible trading card game on the Hive blockchain.
-  - [dCity](https://dcity.io/) - A blockchain-based city building games with tokenized assets and real rewards.
-  - [Holybread](https://holybread.io/) - An RPG-style browser game built on the Hive blockchain.
-  - [Rising Star](https://www.risingstargame.com/) - Collectible card game based on the music industry. Alpha as of August 2020.
-  - [Rabona](https://rabona.io) - Soccer Manager built on the Hive blockchain
+  - [Rising Star](https://www.risingstargame.com/) - Collectible card game based on the music industry.
 - Science
-  - [STEMsocial](https://stem.openhive.network/) - A New STEM Communication Paradigm On Hive, ([code](https://github.com/BFuks/STEMsocial)).
+  - [STEMsocial](https://peakd.com/c/hive-196387) - Curation project dedicated to improving the quality of STEM (science, technology, engineering & mathematics) content on Hive.
 - Automation
-  - [Hive.vote](https://hive.vote) - An dApp for automatic claiming payouts, automatic curation, and scheduling posts, ([code](https://github.com/mahdiyari/steemauto)).
+  - [Hive.vote](https://hive.vote) - A dApp for automatic claiming payouts, automatic curation, and scheduling posts, ([code](https://github.com/mahdiyari/steemauto)).
 - Tokens
   - [Hive-engine](https://hive-engine.com/) - A platform that empowers creating tokens and tribes on Hive.
-
-  - [NFTMart](https://nftm.art) - A platform that enables the buying and selling of NFTs on Hive.
-- Other
-  - [dPoll](https://dpoll.io) - A platform to create polls and get feedback. You can also vote to other polls. All actions are registered into the HIVE blockchain as first
-  class objects.
-
 
 ## Services
 
@@ -177,22 +168,17 @@ Where to find more resources about Hive.
 ### Developer Community
 
 - [HiveDevs Chat](https://discord.gg/4mn5S9t) - A Discord channel where Hive developers go to discuss Hive apps, development, libraries and related topics.
-- [Hive API](https://hive.hivesigner.com) - Swagger interactive Hive API.
+- [Hive API](https://api.hive.blog) - Swagger UI for the public Hive API node.
 - [Hive Chain Documentation](https://hivedocs.info) - Hub for general documentation contributed by developers on the Hive blockchain.
 
 ### Conferences
 
-- [HiveFest](https://hivefe.st) - HiveFest, the annual gathering for Hive users and it's ecosystem.
-- [Hive Hackathon](https://hivehackathon.com/) - Online hackathon for developers.
+- [HiveFest](https://hivefe.st) - HiveFest, the annual gathering for Hive users and its ecosystem.
 
 ### Appliances
 
 - [Hive Whale](https://hivewhale.com/) - Hive Whale, a life-sized sperm whale on the blockchain.
 
-## Alternative lists
-
-- [Awesome list by @good-karma](https://github.com/ledgerconnect/awesome-hive) Alternative list by [@good-karma](https://hive.blog/@good-karma).
-
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+This list is no longer maintained. Please contribute to [Awesome Hive by Ecency](https://github.com/ecency/awesome-hive) instead; see the [contribution guidelines](CONTRIBUTING.md).
